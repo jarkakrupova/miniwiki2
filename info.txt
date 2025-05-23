@@ -4,4 +4,4 @@ verze2
 verze3
 verze4
 verze5
-00000000000
+111111111
