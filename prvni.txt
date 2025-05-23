@@ -2,3 +2,4 @@ prvni soubor
 function install{
 lorem ipsum
 }
+pokusny commit do vimu
