@@ -1,1 +1,4 @@
 prvni soubor
+function install{
+lorem ipsum
+}
